@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playzonegamerz.aternos.me:15267",
+    "ip": "playzonegamerz.aternos.me",
     "port": 15267,
     "version": "1.20.1",
     "try-creative": false
