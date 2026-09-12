@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK Bot",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "playzonegamerz.aternos.me",
-    "port": 15267,
-    "version": "1.21.11",
+    "ip": "solocloud.host",
+    "port": 25565,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -31,13 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player"
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 12000
+    "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
